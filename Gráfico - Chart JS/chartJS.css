@@ -1,0 +1,17 @@
+body{
+    background-color:aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.graf1{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0px 10px 50px #00000056;
+}
+
+.graf2{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0px 10px 50px #00000056;
+}
